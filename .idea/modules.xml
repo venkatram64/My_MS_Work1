@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/My_MS_Work.iml" filepath="$PROJECT_DIR$/.idea/My_MS_Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-local-repo/git-local-repo.iml" filepath="$PROJECT_DIR$/git-local-repo/git-local-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspring-config-cloud-server/myspring-config-cloud-server.iml" filepath="$PROJECT_DIR$/myspring-config-cloud-server/myspring-config-cloud-server.iml" />
+    </modules>
+  </component>
+</project>
