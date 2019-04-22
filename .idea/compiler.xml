@@ -10,6 +10,9 @@
         <module name="currency-exchange-service" />
         <module name="limits-service" />
         <module name="myspring-config-cloud-server" />
+        <module name="netflix-eureka-naming-server" />
+        <module name="netflix-zuul-api-gateway-server" />
+        <module name="zipkin-distributed-tracing-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +20,9 @@
       <module name="currency-exchange-service" target="1.8" />
       <module name="limits-service" target="1.8" />
       <module name="myspring-config-cloud-server" target="1.8" />
+      <module name="netflix-eureka-naming-server" target="1.8" />
+      <module name="netflix-zuul-api-gateway-server" target="1.8" />
+      <module name="zipkin-distributed-tracing-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

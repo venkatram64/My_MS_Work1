@@ -32,3 +32,22 @@ step 10: http://localhost:8888/limits-service/qa
 to open the h2-console:
 http://localhost:8001/h2-console
 use: jdbc:h2:mem:testdb
+
+
+
+http://localhost:8001/currency-exchange/from/AUD/to/INR
+
+http://localhost:8100/currency-converter-feign/from/EUR/to/INR/quantity/109
+
+Run the following, we are running with respect to the zuul
+
+http://localhost:8765/currency-exchange-service/currency-exchange/from/AUD/to/INR
+
+http://localhost:8100/currency-converter-feign/from/EUR/to/INR/quantity/109
+
+http://localhost:8765/currency-conversion-service/currency-converter-feign/from/EUR/to/INR/quantity/109
+
+
+step1: After installing rabbitmq, run the following command
+
+rabbitmq-plugins enable rabbitmq_management

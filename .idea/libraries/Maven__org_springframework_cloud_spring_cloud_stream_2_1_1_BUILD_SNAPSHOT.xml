@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-stream:2.1.1.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.1.1.BUILD-SNAPSHOT/spring-cloud-stream-2.1.1.BUILD-20190214.100152-15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.1.1.BUILD-SNAPSHOT/spring-cloud-stream-2.1.1.BUILD-20190214.100152-15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.1.1.BUILD-SNAPSHOT/spring-cloud-stream-2.1.1.BUILD-20190214.100152-15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
