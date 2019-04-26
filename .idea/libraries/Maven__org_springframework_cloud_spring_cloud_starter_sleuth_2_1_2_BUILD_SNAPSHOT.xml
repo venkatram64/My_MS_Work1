@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-sleuth:2.1.2.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190421.214640-301.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190426.004649-328.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190421.214640-301-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190426.004649-328-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190421.214640-301-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.2.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.2.BUILD-20190426.004649-328-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
