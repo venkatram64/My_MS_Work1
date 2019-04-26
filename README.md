@@ -51,3 +51,5 @@ http://localhost:8765/currency-conversion-service/currency-converter-feign/from/
 step1: After installing rabbitmq, run the following command
 
 rabbitmq-plugins enable rabbitmq_management
+
+http://localhost:15672/
